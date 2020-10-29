@@ -4,5 +4,8 @@
     <item>
       <enclosure url="https://github.com/inkyMountain/sketch-study/releases/download/v0.0.1/maliang.sketchplugin.zip" sparkle:version="0.0.1"/>
     </item>
+    <item>
+      <enclosure url="https://github.com/inkyMountain/sketch-study/releases/download/v0.0.1/maliang.sketchplugin.zip" sparkle:version="0.0.1"/>
+    </item>
   </channel>
 </rss>
